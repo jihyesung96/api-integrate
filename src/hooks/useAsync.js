@@ -2,7 +2,7 @@ import { useEffect, useReducer } from 'react';
 
 //1.상태 초기화
 const initialState = {
-    users:null,
+    data:null,
     loading:false,
     error:null
 }
